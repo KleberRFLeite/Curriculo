@@ -81,7 +81,7 @@
 	<h2> EXPERIÊNCIA PROFISSIONAL </h2>
 	
 	<h3> 20/11/2018 atual – <a href="https://unisociesc.com.br" target="_blank"> Sociedade Educacional de Santa Catarina</a></h3>
-	<h4>Cargo: Analista de Sistema Junior</h4>
+	<h4>Cargo: Analista de Sistema Júnior</h4>
 	<p>Atividades: Analista do Sistema LMS - Ilang, plataforma de disciplinas Híbridas, extração de Relatórios para indicadores de Resultado. Auxiliar usuarios sobre alterações realizadas, Desenvolvimento do Hotsite para disponibilizar para forncedores de conteúdo.</p>
 
 	<h3> 05/03/2018 Promoção – <a href="https://unisociesc.com.br" target="_blank"> Sociedade Educacional de Santa Catarina</a></h3>
