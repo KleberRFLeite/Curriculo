@@ -79,8 +79,12 @@
 	</ul>
 
 	<h2> EXPERIÊNCIA PROFISSIONAL </h2>
+	
+	<h3> 20/11/2018 atual – <a href="https://unisociesc.com.br" target="_blank"> Sociedade Educacional de Santa Catarina</a></h3>
+	<h4>Cargo: Analista de Sistema Junior</h4>
+	<p>Atividades: Analista do Sistema LMS - Ilang, plataforma de disciplinas Híbridas, extração de Relatórios para indicadores de Resultado. Auxiliar usuarios sobre alterações realizadas, Desenvolvimento do Hotsite para disponibilizar para forncedores de conteúdo.</p>
 
-	<h3> 05/03/2018 atual – <a href="https://unisociesc.com.br" target="_blank"> Sociedade Educacional de Santa Catarina</a></h3>
+	<h3> 05/03/2018 Promoção – <a href="https://unisociesc.com.br" target="_blank"> Sociedade Educacional de Santa Catarina</a></h3>
 	<h4>Cargo: Técnico de Informática I</h4>
 	<p>Atividades: Responsável pela área de TI da Unidade de Jaraguá do Sul, auxílio aos colaboradores e alunos  com suporte a infraestrutura. Abertura de chamados quando há necessidade de apoio de Redes do Grupo Ãnima em algum acesso restrito onde solucionado somente pela Central.</p>
 
